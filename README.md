@@ -1,4 +1,8 @@
 ### Hi there 👋
+### I am currently working on python and machine learning frameworks! I am also learning Java and android development. 
+### Ask me about the future of electric mobility and the use of AI in the same. 
+
+### You can reach me at minhaasmohammed@gmail.com
 
 <!--
 **Minhaas/Minhaas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
