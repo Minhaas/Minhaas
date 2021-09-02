@@ -1,5 +1,6 @@
 ### Hi there 👋
-### I am currently working in the Centre of Networked Intelligence at the Indian Institute of Science.
+### I am currently pursuing my Masters in Computer Engineering froom NYU Tandon.
+### My last work position was at the Centre of Networked Intelligence, Indian Institute of Science. I worked on mobility data analysis, built epidemiological simulators and worked on serosurvey designs. 
 ### I am interested in python and machine learning frameworks! I am also learning Java and android development. 
 ### Ask me about the future of electric mobility and the use of AI in the same. 
 
