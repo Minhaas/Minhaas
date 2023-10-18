@@ -1,6 +1,7 @@
 ### Hi there 👋
-### I am currently pursuing my Masters in Computer Engineering from NYU Tandon.
-### My last work position was at the Centre of Networked Intelligence, Indian Institute of Science. I worked on mobility data analysis, built epidemiological simulators and worked on serosurvey designs. 
+### I recently graduated with my Masters in Computer Engineering from NYU Tandon, and I am currently working as a Assistant Research Scientist at NYU Tandon. 
+### I have expertise in deep learning, computer vision and building privacy preserving systems, and I am currently looking for opportunities as a Machine Learning / Deep Learning Engineer where I can best use my skills. 
+<!-- ### My last work position was at the Centre of Networked Intelligence, Indian Institute of Science. I worked on mobility data analysis, built epidemiological simulators and worked on serosurvey designs. -->
 ### I am interested in python and machine learning frameworks! I am also learning Java and android development. 
 ### Ask me about the future of electric mobility and the use of AI in the same. 
 
