@@ -2,10 +2,10 @@
 ### I recently graduated with my Masters in Computer Engineering from NYU Tandon, and I am currently working as a Assistant Research Scientist at NYU Tandon. 
 ### I have expertise in deep learning, computer vision and building privacy preserving systems, and I am currently looking for opportunities as a Machine Learning / Deep Learning Engineer where I can best use my skills. 
 <!-- ### My last work position was at the Centre of Networked Intelligence, Indian Institute of Science. I worked on mobility data analysis, built epidemiological simulators and worked on serosurvey designs. -->
-### I am interested in python and machine learning frameworks! I am also learning Java and android development. 
+### I am interested in developing machine learning frameworks and bringing models to production.  
 ### Ask me about the future of electric mobility and the use of AI in the same. 
 
-### You can reach me at minhaasmohammed@gmail.com
+### You can reach me at mb7979@nyu.edu
 
 <!--
 **Minhaas/Minhaas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
